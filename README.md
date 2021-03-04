@@ -5,5 +5,5 @@ In 2020, my company failed 1 of their 19 Operational KPI. Fortunately we met the
 Let's take a deeper look at what caused the "On Time Delivery" KPI to fail, so we can take concrete actions and meet the target this year.
 
 ### 2. Problem statement
-Every shipment sent to consignee is recorded in our system, alongside with a "REMARKS" column indicating what was the reason of delay, if any.
+Every shipment sent to a consignee is recorded in our system, alongside with a "REMARKS" column indicating what was the reason of delay, if any.
 
