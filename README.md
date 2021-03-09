@@ -7,3 +7,11 @@ Let's take a deeper look at what caused the "On Time Delivery" KPI to fail, so w
 ### 2. Problem statement
 Every shipment sent to a consignee is recorded in our system, alongside with a "REMARKS" column indicating what was the reason of delay, if any.
 
+
+
+
+
+
+
+
+### Conclusion
