@@ -38,7 +38,7 @@ Let's breakdown the different reasons to understand how the company can improve 
 
 ### 5. Conclusion
 To conclude, several actions have been put in place in order to reduce the chance of On Time Delivery KPI failure.
-Firstly, our Innovation team is exploring into vertical lean-lift, aimed to increase he warehouse staging area capacity.
+Firstly, our Innovation team is exploring into vertical lean-lift, aimed to increase warehouse staging area capacity.
 Secondly, the Digital team is working on automation tools to enable Customer Service Officers to work more efficiently.
 
 
