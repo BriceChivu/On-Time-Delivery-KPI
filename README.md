@@ -30,11 +30,11 @@ Let's breakdown the different reasons to understand how the company can improve 
 
 ![Settings Window](https://github.com/BriceChivu/On_Time_Delivery_KPI/blob/main/Pictures/fig%205%20On%20Time%20Delivery%20breakdown.png)
 
-**Breakdown summary:**
-Capacity: The Operation team is facing a huge volume resulting in an overflow of the staging area. To put it simply, there is not enough space on the floor to prepare all the pallets. <br/>
-Late documentation: The Customer Service Officer sent the required documents to the shipment service provider late. <br/>
-Vessel: The vessel carrying the goods arrived late. <br/>
-Other: Other reasons.
+**Breakdown summary:** <br/>
+*Capacity*: The Operation team is facing a huge volume resulting in an overflow of the staging area. To put it simply, there is not enough space on the floor to prepare all the pallets. <br/>
+*Late documentation*: The Customer Service Officer sent the required documents to the shipment service provider late. <br/>
+*Vessel*: The vessel carrying the goods arrived late. <br/>
+*Other*: Other reasons.
 
 ### 5. Conclusion
 To conclude, several actions have been put in place in order to reduce the chance of On Time Delivery KPI failure.
