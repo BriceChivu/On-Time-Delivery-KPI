@@ -28,6 +28,6 @@ The below plot shows the different justifications of the delay shipments **cause
 
 Let's breakdown the different reasons to understand how the company can improve moving forward.
 
-![Settings Window](https://github.com/BriceChivu/On_Time_Delivery_KPI/blob/main/Pictures/fig%204%20On%20Time%20Delivery%20plot%202%20without%20early%20cargo.png)
+![Settings Window](https://github.com/BriceChivu/On_Time_Delivery_KPI/blob/main/Pictures/fig%205%20On%20Time%20Delivery%20breakdown.png)
 
 ### 5. Conclusion
