@@ -1,4 +1,4 @@
-# On Time Deliver KPI
+# On Time Deliver KPI 
 
 ### 1. Introduction
 In 2020, my company failed 1 of their 19 Operational KPI. Fortunately we met the rest of it, which save us some trouble. But what if we had failed another one? You can be sure that penalties would have been applied... <br/>
